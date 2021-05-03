@@ -159,11 +159,11 @@ teams <- list(
 
 )
 
-#' Generate NFL team color palettes
+#' Generate NCAA football team color palettes
 #'
-#' Return colors for a specific NFL team.
+#' Return colors for a specific team.
 #'
-#'@param team_name Character string of official NFL team abbreviation
+#'@param team_name Character string of school name
 #'@param n Numeric indicating number of colors returned; defaults to all
 #'
 #' @export
