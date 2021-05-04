@@ -136,7 +136,7 @@ teams <- list(
   "Texas A&M" = c("#500000", "#FFFFFF", "#B1B3B6"),
   "Vanderbilt" = c("#000000", "#D0BA89", "#FFFFFF"),
   # Sun Belt
-  "Appalachian State" = c("#000000", "#FFD205", "#000000"),
+  "Appalachian State" = c("#000000", "#FFD205", "#FFFFFF"),
   "Arkansas State" = c("#000000", "#D02130", "#FFFFFF"),
   "Coastal Carolina" = c("#000000", "#006F72", "#FFFFFF", "#A27752"),
   "Georgia Southern" = c("#00183F", "#FFFFFF", "#9DA3A7", "#89714C"),
