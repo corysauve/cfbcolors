@@ -89,9 +89,87 @@ You can also select a specific number of colors.
 iu_palette <- team_colors("Indiana", 2)
 ```
 
-## Available Palettes
+## Available Team Palettes
 
-<img src="man/figures/README-unnamed-chunk-3-1.png" width="350px" /><img src="man/figures/README-unnamed-chunk-3-2.png" width="350px" /><img src="man/figures/README-unnamed-chunk-3-3.png" width="350px" /><img src="man/figures/README-unnamed-chunk-3-4.png" width="350px" /><img src="man/figures/README-unnamed-chunk-3-5.png" width="350px" /><img src="man/figures/README-unnamed-chunk-3-6.png" width="350px" /><img src="man/figures/README-unnamed-chunk-3-7.png" width="350px" /><img src="man/figures/README-unnamed-chunk-3-8.png" width="350px" /><img src="man/figures/README-unnamed-chunk-3-9.png" width="350px" /><img src="man/figures/README-unnamed-chunk-3-10.png" width="350px" /><img src="man/figures/README-unnamed-chunk-3-11.png" width="350px" /><img src="man/figures/README-unnamed-chunk-3-12.png" width="350px" /><img src="man/figures/README-unnamed-chunk-3-13.png" width="350px" /><img src="man/figures/README-unnamed-chunk-3-14.png" width="350px" /><img src="man/figures/README-unnamed-chunk-3-15.png" width="350px" /><img src="man/figures/README-unnamed-chunk-3-16.png" width="350px" /><img src="man/figures/README-unnamed-chunk-3-17.png" width="350px" /><img src="man/figures/README-unnamed-chunk-3-18.png" width="350px" /><img src="man/figures/README-unnamed-chunk-3-19.png" width="350px" /><img src="man/figures/README-unnamed-chunk-3-20.png" width="350px" /><img src="man/figures/README-unnamed-chunk-3-21.png" width="350px" /><img src="man/figures/README-unnamed-chunk-3-22.png" width="350px" /><img src="man/figures/README-unnamed-chunk-3-23.png" width="350px" /><img src="man/figures/README-unnamed-chunk-3-24.png" width="350px" /><img src="man/figures/README-unnamed-chunk-3-25.png" width="350px" /><img src="man/figures/README-unnamed-chunk-3-26.png" width="350px" /><img src="man/figures/README-unnamed-chunk-3-27.png" width="350px" /><img src="man/figures/README-unnamed-chunk-3-28.png" width="350px" /><img src="man/figures/README-unnamed-chunk-3-29.png" width="350px" /><img src="man/figures/README-unnamed-chunk-3-30.png" width="350px" /><img src="man/figures/README-unnamed-chunk-3-31.png" width="350px" /><img src="man/figures/README-unnamed-chunk-3-32.png" width="350px" /><img src="man/figures/README-unnamed-chunk-3-33.png" width="350px" /><img src="man/figures/README-unnamed-chunk-3-34.png" width="350px" /><img src="man/figures/README-unnamed-chunk-3-35.png" width="350px" /><img src="man/figures/README-unnamed-chunk-3-36.png" width="350px" /><img src="man/figures/README-unnamed-chunk-3-37.png" width="350px" /><img src="man/figures/README-unnamed-chunk-3-38.png" width="350px" /><img src="man/figures/README-unnamed-chunk-3-39.png" width="350px" /><img src="man/figures/README-unnamed-chunk-3-40.png" width="350px" /><img src="man/figures/README-unnamed-chunk-3-41.png" width="350px" /><img src="man/figures/README-unnamed-chunk-3-42.png" width="350px" /><img src="man/figures/README-unnamed-chunk-3-43.png" width="350px" /><img src="man/figures/README-unnamed-chunk-3-44.png" width="350px" /><img src="man/figures/README-unnamed-chunk-3-45.png" width="350px" /><img src="man/figures/README-unnamed-chunk-3-46.png" width="350px" /><img src="man/figures/README-unnamed-chunk-3-47.png" width="350px" /><img src="man/figures/README-unnamed-chunk-3-48.png" width="350px" /><img src="man/figures/README-unnamed-chunk-3-49.png" width="350px" /><img src="man/figures/README-unnamed-chunk-3-50.png" width="350px" /><img src="man/figures/README-unnamed-chunk-3-51.png" width="350px" /><img src="man/figures/README-unnamed-chunk-3-52.png" width="350px" /><img src="man/figures/README-unnamed-chunk-3-53.png" width="350px" /><img src="man/figures/README-unnamed-chunk-3-54.png" width="350px" /><img src="man/figures/README-unnamed-chunk-3-55.png" width="350px" /><img src="man/figures/README-unnamed-chunk-3-56.png" width="350px" /><img src="man/figures/README-unnamed-chunk-3-57.png" width="350px" /><img src="man/figures/README-unnamed-chunk-3-58.png" width="350px" /><img src="man/figures/README-unnamed-chunk-3-59.png" width="350px" /><img src="man/figures/README-unnamed-chunk-3-60.png" width="350px" /><img src="man/figures/README-unnamed-chunk-3-61.png" width="350px" /><img src="man/figures/README-unnamed-chunk-3-62.png" width="350px" /><img src="man/figures/README-unnamed-chunk-3-63.png" width="350px" /><img src="man/figures/README-unnamed-chunk-3-64.png" width="350px" /><img src="man/figures/README-unnamed-chunk-3-65.png" width="350px" /><img src="man/figures/README-unnamed-chunk-3-66.png" width="350px" /><img src="man/figures/README-unnamed-chunk-3-67.png" width="350px" /><img src="man/figures/README-unnamed-chunk-3-68.png" width="350px" /><img src="man/figures/README-unnamed-chunk-3-69.png" width="350px" /><img src="man/figures/README-unnamed-chunk-3-70.png" width="350px" /><img src="man/figures/README-unnamed-chunk-3-71.png" width="350px" /><img src="man/figures/README-unnamed-chunk-3-72.png" width="350px" /><img src="man/figures/README-unnamed-chunk-3-73.png" width="350px" /><img src="man/figures/README-unnamed-chunk-3-74.png" width="350px" /><img src="man/figures/README-unnamed-chunk-3-75.png" width="350px" /><img src="man/figures/README-unnamed-chunk-3-76.png" width="350px" /><img src="man/figures/README-unnamed-chunk-3-77.png" width="350px" /><img src="man/figures/README-unnamed-chunk-3-78.png" width="350px" /><img src="man/figures/README-unnamed-chunk-3-79.png" width="350px" /><img src="man/figures/README-unnamed-chunk-3-80.png" width="350px" /><img src="man/figures/README-unnamed-chunk-3-81.png" width="350px" /><img src="man/figures/README-unnamed-chunk-3-82.png" width="350px" /><img src="man/figures/README-unnamed-chunk-3-83.png" width="350px" /><img src="man/figures/README-unnamed-chunk-3-84.png" width="350px" /><img src="man/figures/README-unnamed-chunk-3-85.png" width="350px" /><img src="man/figures/README-unnamed-chunk-3-86.png" width="350px" /><img src="man/figures/README-unnamed-chunk-3-87.png" width="350px" /><img src="man/figures/README-unnamed-chunk-3-88.png" width="350px" /><img src="man/figures/README-unnamed-chunk-3-89.png" width="350px" /><img src="man/figures/README-unnamed-chunk-3-90.png" width="350px" /><img src="man/figures/README-unnamed-chunk-3-91.png" width="350px" /><img src="man/figures/README-unnamed-chunk-3-92.png" width="350px" /><img src="man/figures/README-unnamed-chunk-3-93.png" width="350px" /><img src="man/figures/README-unnamed-chunk-3-94.png" width="350px" /><img src="man/figures/README-unnamed-chunk-3-95.png" width="350px" /><img src="man/figures/README-unnamed-chunk-3-96.png" width="350px" /><img src="man/figures/README-unnamed-chunk-3-97.png" width="350px" /><img src="man/figures/README-unnamed-chunk-3-98.png" width="350px" /><img src="man/figures/README-unnamed-chunk-3-99.png" width="350px" /><img src="man/figures/README-unnamed-chunk-3-100.png" width="350px" /><img src="man/figures/README-unnamed-chunk-3-101.png" width="350px" /><img src="man/figures/README-unnamed-chunk-3-102.png" width="350px" /><img src="man/figures/README-unnamed-chunk-3-103.png" width="350px" /><img src="man/figures/README-unnamed-chunk-3-104.png" width="350px" /><img src="man/figures/README-unnamed-chunk-3-105.png" width="350px" /><img src="man/figures/README-unnamed-chunk-3-106.png" width="350px" /><img src="man/figures/README-unnamed-chunk-3-107.png" width="350px" /><img src="man/figures/README-unnamed-chunk-3-108.png" width="350px" /><img src="man/figures/README-unnamed-chunk-3-109.png" width="350px" /><img src="man/figures/README-unnamed-chunk-3-110.png" width="350px" /><img src="man/figures/README-unnamed-chunk-3-111.png" width="350px" /><img src="man/figures/README-unnamed-chunk-3-112.png" width="350px" /><img src="man/figures/README-unnamed-chunk-3-113.png" width="350px" /><img src="man/figures/README-unnamed-chunk-3-114.png" width="350px" /><img src="man/figures/README-unnamed-chunk-3-115.png" width="350px" /><img src="man/figures/README-unnamed-chunk-3-116.png" width="350px" /><img src="man/figures/README-unnamed-chunk-3-117.png" width="350px" /><img src="man/figures/README-unnamed-chunk-3-118.png" width="350px" /><img src="man/figures/README-unnamed-chunk-3-119.png" width="350px" /><img src="man/figures/README-unnamed-chunk-3-120.png" width="350px" /><img src="man/figures/README-unnamed-chunk-3-121.png" width="350px" /><img src="man/figures/README-unnamed-chunk-3-122.png" width="350px" /><img src="man/figures/README-unnamed-chunk-3-123.png" width="350px" /><img src="man/figures/README-unnamed-chunk-3-124.png" width="350px" /><img src="man/figures/README-unnamed-chunk-3-125.png" width="350px" /><img src="man/figures/README-unnamed-chunk-3-126.png" width="350px" /><img src="man/figures/README-unnamed-chunk-3-127.png" width="350px" /><img src="man/figures/README-unnamed-chunk-3-128.png" width="350px" /><img src="man/figures/README-unnamed-chunk-3-129.png" width="350px" /><img src="man/figures/README-unnamed-chunk-3-130.png" width="350px" />
+-   [**American Conference**](#American-Conference)
+-   [**ACC**](#ACC)
+-   [**Big 12**](#Big-12)
+-   [**B1G Conference**](#B1G-Conference)
+-   [**Conference USA**](#Conference-USA)
+-   [**FBS-Independents**](#FBS-Independents)
+-   [**Mid-American**](#Mid-American)
+-   [**Mountain West**](#Mountain-West)
+-   [**Pac-12**](#Pac-12)
+-   [**SEC**](#SEC)
+-   [**Sunbelt**](#Sun-Belt)
+
+<br>
+
+### American Conference
+
+<img src="man/figures/README-American-1.png" width="350px" /><img src="man/figures/README-American-2.png" width="350px" /><img src="man/figures/README-American-3.png" width="350px" /><img src="man/figures/README-American-4.png" width="350px" /><img src="man/figures/README-American-5.png" width="350px" /><img src="man/figures/README-American-6.png" width="350px" /><img src="man/figures/README-American-7.png" width="350px" /><img src="man/figures/README-American-8.png" width="350px" /><img src="man/figures/README-American-9.png" width="350px" /><img src="man/figures/README-American-10.png" width="350px" /><img src="man/figures/README-American-11.png" width="350px" />
+
+<br>
+
+### ACC
+
+<img src="man/figures/README-ACC-1.png" width="350px" /><img src="man/figures/README-ACC-2.png" width="350px" /><img src="man/figures/README-ACC-3.png" width="350px" /><img src="man/figures/README-ACC-4.png" width="350px" /><img src="man/figures/README-ACC-5.png" width="350px" /><img src="man/figures/README-ACC-6.png" width="350px" /><img src="man/figures/README-ACC-7.png" width="350px" /><img src="man/figures/README-ACC-8.png" width="350px" /><img src="man/figures/README-ACC-9.png" width="350px" /><img src="man/figures/README-ACC-10.png" width="350px" /><img src="man/figures/README-ACC-11.png" width="350px" /><img src="man/figures/README-ACC-12.png" width="350px" /><img src="man/figures/README-ACC-13.png" width="350px" /><img src="man/figures/README-ACC-14.png" width="350px" /><img src="man/figures/README-ACC-15.png" width="350px" />
+
+<br>
+
+### Big 12
+
+<img src="man/figures/README-Big12-1.png" width="350px" /><img src="man/figures/README-Big12-2.png" width="350px" /><img src="man/figures/README-Big12-3.png" width="350px" /><img src="man/figures/README-Big12-4.png" width="350px" /><img src="man/figures/README-Big12-5.png" width="350px" /><img src="man/figures/README-Big12-6.png" width="350px" /><img src="man/figures/README-Big12-7.png" width="350px" /><img src="man/figures/README-Big12-8.png" width="350px" /><img src="man/figures/README-Big12-9.png" width="350px" /><img src="man/figures/README-Big12-10.png" width="350px" />
+
+<br>
+
+### B1G Conference
+
+<img src="man/figures/README-BIG-1.png" width="350px" /><img src="man/figures/README-BIG-2.png" width="350px" /><img src="man/figures/README-BIG-3.png" width="350px" /><img src="man/figures/README-BIG-4.png" width="350px" /><img src="man/figures/README-BIG-5.png" width="350px" /><img src="man/figures/README-BIG-6.png" width="350px" /><img src="man/figures/README-BIG-7.png" width="350px" /><img src="man/figures/README-BIG-8.png" width="350px" /><img src="man/figures/README-BIG-9.png" width="350px" /><img src="man/figures/README-BIG-10.png" width="350px" /><img src="man/figures/README-BIG-11.png" width="350px" /><img src="man/figures/README-BIG-12.png" width="350px" /><img src="man/figures/README-BIG-13.png" width="350px" /><img src="man/figures/README-BIG-14.png" width="350px" />
+
+<br>
+
+### Conference USA
+
+<img src="man/figures/README-ConfUSA-1.png" width="350px" /><img src="man/figures/README-ConfUSA-2.png" width="350px" /><img src="man/figures/README-ConfUSA-3.png" width="350px" /><img src="man/figures/README-ConfUSA-4.png" width="350px" /><img src="man/figures/README-ConfUSA-5.png" width="350px" /><img src="man/figures/README-ConfUSA-6.png" width="350px" /><img src="man/figures/README-ConfUSA-7.png" width="350px" /><img src="man/figures/README-ConfUSA-8.png" width="350px" /><img src="man/figures/README-ConfUSA-9.png" width="350px" /><img src="man/figures/README-ConfUSA-10.png" width="350px" /><img src="man/figures/README-ConfUSA-11.png" width="350px" /><img src="man/figures/README-ConfUSA-12.png" width="350px" /><img src="man/figures/README-ConfUSA-13.png" width="350px" /><img src="man/figures/README-ConfUSA-14.png" width="350px" />
+
+<br>
+
+### FBS Independents
+
+<img src="man/figures/README-FBDInd-1.png" width="350px" /><img src="man/figures/README-FBDInd-2.png" width="350px" /><img src="man/figures/README-FBDInd-3.png" width="350px" /><img src="man/figures/README-FBDInd-4.png" width="350px" /><img src="man/figures/README-FBDInd-5.png" width="350px" /><img src="man/figures/README-FBDInd-6.png" width="350px" />
+
+<br>
+
+### Mid-American
+
+<img src="man/figures/README-MidAm-1.png" width="350px" /><img src="man/figures/README-MidAm-2.png" width="350px" /><img src="man/figures/README-MidAm-3.png" width="350px" /><img src="man/figures/README-MidAm-4.png" width="350px" /><img src="man/figures/README-MidAm-5.png" width="350px" /><img src="man/figures/README-MidAm-6.png" width="350px" /><img src="man/figures/README-MidAm-7.png" width="350px" /><img src="man/figures/README-MidAm-8.png" width="350px" /><img src="man/figures/README-MidAm-9.png" width="350px" /><img src="man/figures/README-MidAm-10.png" width="350px" /><img src="man/figures/README-MidAm-11.png" width="350px" /><img src="man/figures/README-MidAm-12.png" width="350px" />
+
+<br>
+
+### Mountain West
+
+<img src="man/figures/README-MtnWest-1.png" width="350px" /><img src="man/figures/README-MtnWest-2.png" width="350px" /><img src="man/figures/README-MtnWest-3.png" width="350px" /><img src="man/figures/README-MtnWest-4.png" width="350px" /><img src="man/figures/README-MtnWest-5.png" width="350px" /><img src="man/figures/README-MtnWest-6.png" width="350px" /><img src="man/figures/README-MtnWest-7.png" width="350px" /><img src="man/figures/README-MtnWest-8.png" width="350px" /><img src="man/figures/README-MtnWest-9.png" width="350px" /><img src="man/figures/README-MtnWest-10.png" width="350px" /><img src="man/figures/README-MtnWest-11.png" width="350px" /><img src="man/figures/README-MtnWest-12.png" width="350px" />
+
+<br>
+
+### Pac-12
+
+<img src="man/figures/README-PAC12-1.png" width="350px" /><img src="man/figures/README-PAC12-2.png" width="350px" /><img src="man/figures/README-PAC12-3.png" width="350px" /><img src="man/figures/README-PAC12-4.png" width="350px" /><img src="man/figures/README-PAC12-5.png" width="350px" /><img src="man/figures/README-PAC12-6.png" width="350px" /><img src="man/figures/README-PAC12-7.png" width="350px" /><img src="man/figures/README-PAC12-8.png" width="350px" /><img src="man/figures/README-PAC12-9.png" width="350px" /><img src="man/figures/README-PAC12-10.png" width="350px" /><img src="man/figures/README-PAC12-11.png" width="350px" /><img src="man/figures/README-PAC12-12.png" width="350px" />
+
+<br>
+
+### SEC
+
+<img src="man/figures/README-SEC-1.png" width="350px" /><img src="man/figures/README-SEC-2.png" width="350px" /><img src="man/figures/README-SEC-3.png" width="350px" /><img src="man/figures/README-SEC-4.png" width="350px" /><img src="man/figures/README-SEC-5.png" width="350px" /><img src="man/figures/README-SEC-6.png" width="350px" /><img src="man/figures/README-SEC-7.png" width="350px" /><img src="man/figures/README-SEC-8.png" width="350px" /><img src="man/figures/README-SEC-9.png" width="350px" /><img src="man/figures/README-SEC-10.png" width="350px" /><img src="man/figures/README-SEC-11.png" width="350px" /><img src="man/figures/README-SEC-12.png" width="350px" /><img src="man/figures/README-SEC-13.png" width="350px" /><img src="man/figures/README-SEC-14.png" width="350px" />
+
+<br>
+
+### Sun Belt
+
+<img src="man/figures/README-SunBelt-1.png" width="350px" /><img src="man/figures/README-SunBelt-2.png" width="350px" /><img src="man/figures/README-SunBelt-3.png" width="350px" /><img src="man/figures/README-SunBelt-4.png" width="350px" /><img src="man/figures/README-SunBelt-5.png" width="350px" /><img src="man/figures/README-SunBelt-6.png" width="350px" /><img src="man/figures/README-SunBelt-7.png" width="350px" /><img src="man/figures/README-SunBelt-8.png" width="350px" /><img src="man/figures/README-SunBelt-9.png" width="350px" /><img src="man/figures/README-SunBelt-10.png" width="350px" />
+
+<br>
 
 ## Contributing
 

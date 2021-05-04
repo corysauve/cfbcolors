@@ -45,12 +45,26 @@ psu_palette <- team_colors("Penn State")
 
 You can also select a specific number of colors. 
 ```{r specific-colors}
-iu_palette <- team_colors("IU", 2)
+iu_palette <- team_colors("Indiana", 2)
 ```
 
-## Available Palettes 
+## Available Team Palettes 
 
-### American Conference 
+* [**American Conference**](#American-Conference)
+* [**ACC**](#ACC)
+* [**Big 12**](#Big-12)
+* [**B1G Conference**](#B1G-Conference)
+* [**Conference USA**](#Conference-USA)
+* [**FBS-Independents**](#FBS-Independents)
+* [**Mid-American**](#Mid-American)
+* [**Mountain West**](#Mountain-West)
+* [**Pac-12**](#Pac-12)
+* [**SEC**](#SEC)
+* [**Sunbelt**](#Sun-Belt)
+
+<br>
+
+### American Conference
 ```{r American, out.width="350px", echo = FALSE, warning = FALSE, message = FALSE}
 print.palette <- function(x, ...) {
   n <- length(x)
@@ -64,11 +78,124 @@ print.palette <- function(x, ...) {
   text((n + 1) / 2, 1, labels = attr(x, "name"), cex = 2, col = "#32373D")
 }
 
-pals <- names(teams)
-for (pal in pals){
+american <- names(teams[1:11])
+
+for (pal in american){
   print.palette(team_colors(pal))
 }
 ```
+
+<br>
+
+### ACC
+```{r ACC, out.width="350px", echo = FALSE, warning = FALSE, message = FALSE}
+acc <- names(teams[12:26])
+
+for (pal in acc){
+  print.palette(team_colors(pal))
+}
+```
+
+<br>
+
+### Big 12 
+```{r Big12, out.width="350px", echo = FALSE, warning = FALSE, message = FALSE}
+big12 <- names(teams[27:36])
+
+for (pal in big12){
+  print.palette(team_colors(pal))
+}
+```
+
+<br>
+
+### B1G Conference
+```{r BIG, out.width="350px", echo = FALSE, warning = FALSE, message = FALSE}
+big <- names(teams[37:50])
+
+for (pal in big){
+  print.palette(team_colors(pal))
+}
+```
+
+<br>
+
+### Conference USA  
+```{r ConfUSA, out.width="350px", echo = FALSE, warning = FALSE, message = FALSE}
+confusa <- names(teams[51:64])
+
+for (pal in confusa){
+  print.palette(team_colors(pal))
+}
+```
+
+<br>
+
+### FBS Independents 
+```{r FBDInd, out.width="350px", echo = FALSE, warning = FALSE, message = FALSE}
+fbsind <- names(teams[65:70])
+
+for (pal in fbsind){
+  print.palette(team_colors(pal))
+}
+```
+
+<br>
+
+### Mid-American 
+```{r MidAm, out.width="350px", echo = FALSE, warning = FALSE, message = FALSE}
+midamer <- names(teams[71:82])
+
+for (pal in midamer){
+  print.palette(team_colors(pal))
+}
+```
+
+<br>
+
+### Mountain West 
+```{r MtnWest, out.width="350px", echo = FALSE, warning = FALSE, message = FALSE}
+mtnwest <- names(teams[83:94])
+
+for (pal in mtnwest){
+  print.palette(team_colors(pal))
+}
+```
+
+<br>
+
+### Pac-12 
+```{r PAC12, out.width="350px", echo = FALSE, warning = FALSE, message = FALSE}
+pac12 <- names(teams[95:106])
+
+for (pal in pac12){
+  print.palette(team_colors(pal))
+}
+```
+
+<br>
+
+### SEC
+```{r SEC, out.width="350px", echo = FALSE, warning = FALSE, message = FALSE}
+sec <- names(teams[107:120])
+
+for (pal in sec){
+  print.palette(team_colors(pal))
+}
+```
+
+<br>
+
+### Sun Belt
+```{r SunBelt, out.width="350px", echo = FALSE, warning = FALSE, message = FALSE}
+sunbelt <- names(teams[121:130])
+
+for (pal in sunbelt){
+  print.palette(team_colors(pal))
+}
+```
+
+<br>
 
 ## Contributing 
 
