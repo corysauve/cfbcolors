@@ -1,0 +1,83 @@
+---
+output: github_document
+---
+
+<!-- README.md is generated from README.Rmd. Please edit that file -->
+
+```{r, include = FALSE}
+knitr::opts_chunk$set(
+  collapse = TRUE,
+  comment = "#>",
+  fig.path = "man/figures/README-",
+  out.width = "100%"
+)
+```
+
+# cfbcolors
+
+<!-- badges: start -->
+<!-- badges: end -->
+
+The goal of cfbcolors is to easily generate NCAA football team color palettes.
+
+## Installation
+
+You can install the released version of cfbcolors from [GitHub](https://github.com/) with:
+
+```{r eval=FALSE}
+# install.packages("devtools")
+devtools::install_github("corysauve/cfbcolors")
+```
+
+## Basic Usage 
+
+cfbcolors has palettes for ... teams in NCAA college football. Colors are sourced from primary uniforms and logos. Note that if white is not one of the two primary colors, it is omitted in the palette. All teams are accessed via their school name.
+```{r team-names}
+library(cfbcolors)
+
+names(teams)
+```
+
+You can create a team palette with `team_colors()`, along with an image of the palette.
+```{r team-colors}
+psu_palette <- team_colors("Penn State")
+```
+
+You can also select a specific number of colors. 
+```{r specific-colors}
+iu_palette <- team_colors("IU", 2)
+```
+
+## Available Palettes 
+
+### American Conference 
+```{r American, out.width="350px", echo = FALSE, warning = FALSE, message = FALSE}
+print.palette <- function(x, ...) {
+  n <- length(x)
+  old <- par(mar = c(0.5, 0.5, 0.5, 0.5))
+  on.exit(par(old))
+
+  image(1:n, 1, as.matrix(1:n), col = x,
+        ylab = "", xaxt = "n", yaxt = "n", bty = "n")
+
+  rect(0, 0.9, n + 1, 1.1, col = rgb(1, 1, 1, 0.8), border = NA)
+  text((n + 1) / 2, 1, labels = attr(x, "name"), cex = 2, col = "#32373D")
+}
+
+pals <- names(teams)
+for (pal in pals){
+  print.palette(team_colors(pal))
+}
+```
+
+## Contributing 
+
+I welcome any contributions or suggestions for improving the package! Please open an issue to do so.
+
+## License 
+
+The nflcolors package is licensed under the MIT License. Please see the [LICENSE](LICENSE.md) for more details.
+
+## Acknowledgments 
+
+Inspiration for this package originally came from the wonderful [nationalparkcolors](https://github.com/katiejolly/nationalparkcolors) package, which provides color palettes for various National Park posters.
